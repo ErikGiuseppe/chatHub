@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webchat", "webchat.csproj", "{B44340C3-2CAE-40F9-A6F3-4C2AE90C799E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44340C3-2CAE-40F9-A6F3-4C2AE90C799E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44340C3-2CAE-40F9-A6F3-4C2AE90C799E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44340C3-2CAE-40F9-A6F3-4C2AE90C799E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44340C3-2CAE-40F9-A6F3-4C2AE90C799E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9DD6C28-12EE-4574-9045-DC84838B80CC}
+	EndGlobalSection
+EndGlobal
